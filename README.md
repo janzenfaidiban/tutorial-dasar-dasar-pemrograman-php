@@ -2,7 +2,7 @@
 
 ## Tutorial Video
 
-[Dasar-Dasar Bahasa Pemrograman PHP (1)](url_here)
+[Dasar-Dasar Bahasa Pemrograman PHP (1)](https://youtu.be/J9Ob3iAhQvY)
 
 ## Garis Besar
 
